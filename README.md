@@ -18,13 +18,13 @@ The automated project is called "Automatizacion.py". Use this small code to run 
    pytest Automatizacion.py --html=report.html
    ```
 
-# ✨ Visit Bondelic Page On Netlify!
+# ✨ Bondelic - Netlify
   - https://bondelic.netlify.app
 
-# 📍 Link de Azure Devops - Proyecto Final
+# 📍 Azure DevOps - Final Project
   - https://dev.azure.com/K3ury99/Programaci%C3%B3n%20III%20-%20Final
 
-# 👾 Explanatory Video - YouTube
+# 👾 YouTube - Explanatory Video
   - https://www.youtube.com/watch?v=9mGixLQ5WnQ
 
 # 🌋 Explanatory Video also here!
