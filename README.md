@@ -19,16 +19,16 @@ The automated project is called "Automatizacion.py". Use this small code to run 
    ```
 
 ## ✨ Visit Bondelic Page On Netlify!
-- https://bondelic.netlify.app
+  - https://bondelic.netlify.app
 
 # Link de Azure Devops - Proyecto Final
-https://dev.azure.com/K3ury99/Programaci%C3%B3n%20III%20-%20Final
+  - https://dev.azure.com/K3ury99/Programaci%C3%B3n%20III%20-%20Final
 
 # 👾 Explanatory Video of the Proyect
-   - ######################
+  - ######################
 
 # 🌋 Explanatory Video also here!
-   - ######################
+  - ######################
 
 ## 🐱‍👤 Contributing
 1. **Fork the repo**
