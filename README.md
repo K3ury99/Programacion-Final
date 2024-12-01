@@ -24,8 +24,8 @@ The automated project is called "Automatizacion.py". Use this small code to run 
 # 📍 Link de Azure Devops - Proyecto Final
   - https://dev.azure.com/K3ury99/Programaci%C3%B3n%20III%20-%20Final
 
-# 👾 Explanatory Video of the Proyect
-  - ######################
+# 👾 Explanatory Video - YouTube
+  - https://www.youtube.com/watch?v=9mGixLQ5WnQ
 
 # 🌋 Explanatory Video also here!
   - ######################
