@@ -27,9 +27,6 @@ The automated project is called "Automatizacion.py". Use this small code to run 
 # 👾 YouTube - Explanatory Video
   - https://www.youtube.com/watch?v=9mGixLQ5WnQ
 
-# 🌋 Explanatory video also here!
-  - ######################
-
 # 🐱‍👤 Contributing
 1. **Fork the repo**
 - **Create a new branch**
